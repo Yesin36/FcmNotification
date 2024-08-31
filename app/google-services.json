@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362441479291",
+    "project_id": "fcmnotification-e9044",
+    "storage_bucket": "fcmnotification-e9044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362441479291:android:a6e6b1a527c179c77bbede",
+        "android_client_info": {
+          "package_name": "com.gogo.fcmnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfaeGzOaxeTWuqiqLWCrq0rsUo9gFtjZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
